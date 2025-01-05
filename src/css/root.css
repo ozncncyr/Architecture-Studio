@@ -1,12 +1,12 @@
 body{
     background-color: rgba(239, 242, 248, 1);
     color: rgba(30, 30, 30, 1);
-    width: 1440px;
-    margin: auto;
     font-family: 'Montserrat';
 }
 
 .section{
+        width: 1440px;
+            margin: auto;
     padding: 80px 120px;
 }
 
