@@ -6,8 +6,8 @@ body{
 
 .section{
         width: 1440px;
+            padding: 80px 120px;
             margin: auto;
-    padding: 80px 120px;
 }
 
 .page-btn{
