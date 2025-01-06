@@ -363,6 +363,12 @@
 
 .awards h2 {
     margin-bottom: 48px;
+    font-size: 50px;
+    font-weight: 500;
+    line-height: 50px;
+    letter-spacing: -0.32px;
+    text-align: left;
+    color: rgba(30, 30, 30, 1);
 }
 
 .awards table {
@@ -442,9 +448,22 @@
     justify-content: space-between;
     align-items: center;
     height: 770px;
+    color: rgba(234, 237, 246, 1);
     background-color: rgba(19, 19, 19, 1);
 }
 
 .footer-wrapper{
     background-color:white;
+}
+
+.footer-btn{
+    background-color: rgba(234, 237, 246, 1);
+    color: rgba(30, 30, 30, 1);
+    transition: all 250ms ease-out;
+}
+
+.footer-btn:hover {
+    background-color: rgba(234, 237, 246, 0.8);
+    color: rgba(30, 30, 30, 1);
+    border-color: transparent;
 }
